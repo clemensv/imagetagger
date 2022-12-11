@@ -1,0 +1,17 @@
+{
+    // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+    // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+    // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Aktuelle Datei",
+            "type": "python",
+            "request": "launch",
+            "program": "/mnt/d/git/imagetagger/imagetagger.py",
+            "args": ["52176840250"],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

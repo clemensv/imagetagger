@@ -1,0 +1,5 @@
+flickrapi
+azure-cognitiveservices-vision-computervision
+openai
+setuptools
+setuptools_scm

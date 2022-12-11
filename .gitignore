@@ -1,0 +1,6 @@
+imagetagger.egg-info/
+dist/
+build/
+.vscode/
+_pycache__/
+run.sh
